@@ -2,6 +2,7 @@
 
 [![NPM version][npm-version-image]][npm-url] [![Build Status][build-status-image]][build-status-url]
 [![Build Status][coverage-image]][coverage-url] [![NPM downloads][npm-downloads-image]][npm-url] [![Dependency Status][dependencies-image]][dependencies-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FStyleT%2Fflightplan.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FStyleT%2Fflightplan?ref=badge_shield)
 
 Run sequences of shell commands against local and remote hosts.
 
@@ -681,3 +682,6 @@ transport.debug('Copying files to remote hosts');
 
 [coverage-url]: https://coveralls.io/github/pstadler/flightplan?branch=master
 [coverage-image]: https://img.shields.io/coveralls/pstadler/flightplan/master.svg?style=flat-square
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FStyleT%2Fflightplan.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FStyleT%2Fflightplan?ref=badge_large)
